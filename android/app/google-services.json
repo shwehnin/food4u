@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1038514756499",
+    "project_id": "bestcannedfood",
+    "storage_bucket": "bestcannedfood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038514756499:android:7a766f91304c57a623a666",
+        "android_client_info": {
+          "package_name": "app.bizzsync.bestcannedfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038514756499-9imoimn7t56fpo150iog9qksnu8j2180.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVIAuAM9M0EAur_7LanlHiXOGh6lw-crk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038514756499-9imoimn7t56fpo150iog9qksnu8j2180.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
